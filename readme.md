@@ -1,44 +1,44 @@
-# Opal Dataset Analysis
+#  Opal Transport Usage Analysis — Sydney
 
 ## Overview
-This repository contains an analysis of the Opal dataset, focusing on public transport usage patterns. The goal is to understand passenger behavior through various machine learning techniques, including classification, regression, and clustering. The analysis is performed using Jupyter Notebooks with libraries such as Pandas, NumPy, Matplotlib, and Scikit-learn.
+An end-to-end data analysis and machine learning project using real 
+Sydney Opal card transport data. The project uncovers public transport 
+usage patterns across different travel modes, card types, and time 
+periods using regression, classification, and clustering techniques.
 
-## Dataset
-The dataset used for this analysis contains information about public transport trips, including trip counts, card types, and travel modes. It provides insights into how passengers utilize public transport over time.
-
-## Key Steps in the Analysis
-
-### 1. Data Preprocessing
-- **One-Hot Encoding**: Categorical variables such as `Card Type` and `Travel Mode` are converted into numerical values for better model interpretation.
-- **Binary Target Variable Creation**: A new binary variable `High_Usage` is created to classify users with more than 100 trips.
-
-### 2. Model Development
-#### A. Logistic Regression
-- Used to classify users based on high usage.
-- Performance is evaluated using a classification report and confusion matrix.
-
-#### B. K-Nearest Neighbors (KNN)
-- KNN regression predicts the actual number of trips for users.
-- Model performance is assessed using Mean Squared Error (MSE).
-
-#### C. K-Means Clustering
-- Clusters users based on trip counts and their preferred travel modes.
-- Visualization of clusters helps to identify user behavior patterns.
-
-## Evaluation Metrics
-- **Classification Report**: Provides precision, recall, and F1-score for the logistic regression model.
-- **Confusion Matrix**: Shows the true positives, true negatives, false positives, and false negatives for classification evaluation.
-- **Mean Squared Error (MSE)**: Assesses the prediction accuracy of the KNN regression model.
-
-## Insights Gained
-1. **High Usage Patterns**: Identifying users with high trip frequency aids in resource planning and service optimization.
-2. **Trip Prediction**: KNN provides estimates of expected trips, offering insights into user demand.
-3. **Behavioral Clustering**: K-Means clustering reveals distinct user segments, informing targeted marketing and service strategies.
-
-## Requirements
+##  Technologies Used
 - Python 3.x
-- Jupyter Notebook
-- Required libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `seaborn`
+- Pandas & NumPy — data manipulation
+- Matplotlib & Seaborn — visualisation
+- Scikit-learn — machine learning models
+
+##  Analysis Performed
+
+### Exploratory Data Analysis
+- Distribution of trips across transport modes (bus, train, ferry)
+- Usage patterns by card type (Adult, Concession, Student)
+- Time series trends across months and years
+
+### Machine Learning Models
+- **Linear & Polynomial Regression** — predicting trip counts
+- **Logistic Regression** — classifying high vs low usage passengers
+- **KNN Regression** — trip count prediction
+- **K-Means Clustering** — segmenting users by behaviour
+
+### Feature Selection
+- Recursive Feature Elimination (RFE) to identify top 5 predictive features
+
+##  Key Insights
+1. Train is the most heavily utilised transport mode
+2. Adult Opal cards account for the majority of trips
+3. Clear seasonal trends visible in time series analysis
+4. K-Means revealed 3 distinct passenger behaviour clusters
+
+##  How to Run
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+jupyter notebook 48310700-Portfolio4.ipynb
+```
 
 ## Author
-Prashant khanal
+Prashant Khanal 
