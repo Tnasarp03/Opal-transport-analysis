@@ -1,0 +1,449 @@
+"Year_Month","Card Type","Travel_Mode","Trip"
+"2024-01",Adult,Ferry,504780.0
+"2024-01",Adult,Light Rail,1203585.0
+"2024-01",Adult,Metro,709103.0
+"2024-01",Adult,Train,9987934.0
+"2024-01",Adult,unallocated,5.0
+"2024-01",CTP,Ferry,917501.0
+"2024-01",CTP,Light Rail,1366699.0
+"2024-01",CTP,Metro,513133.0
+"2024-01",CTP,Train,8608350.0
+"2024-01",CTP,unallocated,8.0
+"2024-01",CTP,unallocated,1.0
+"2024-01",Child/Youth,Ferry,175863.0
+"2024-01",Child/Youth,Light Rail,190537.0
+"2024-01",Child/Youth,Metro,154316.0
+"2024-01",Child/Youth,Train,1029984.0
+"2024-01",Child/Youth,unallocated,1.0
+"2024-01",Concession,Ferry,19658.0
+"2024-01",Concession,Light Rail,98008.0
+"2024-01",Concession,Metro,84711.0
+"2024-01",Concession,Train,725147.0
+"2024-01",Day Pass Child/Youth w/o SAF,Ferry,1.0
+"2024-01",Day Pass Child/Youth w/o SAF,Light Rail,8.0
+"2024-01",Day Pass Child/Youth w/o SAF,Train,20.0
+"2024-01",Day Pass without SAF,Ferry,55.0
+"2024-01",Day Pass without SAF,Light Rail,79.0
+"2024-01",Day Pass without SAF,Metro,21.0
+"2024-01",Day Pass without SAF,Train,973.0
+"2024-01",Employee,Ferry,4789.0
+"2024-01",Employee,Light Rail,9363.0
+"2024-01",Employee,Metro,7477.0
+"2024-01",Employee,Train,177193.0
+"2024-01",Free Travel,Ferry,1978.0
+"2024-01",Free Travel,Light Rail,2929.0
+"2024-01",Free Travel,Metro,1198.0
+"2024-01",Free Travel,Train,20322.0
+"2024-01",School Student,Ferry,617.0
+"2024-01",School Student,Light Rail,1350.0
+"2024-01",School Student,Metro,3271.0
+"2024-01",School Student,Train,23876.0
+"2024-01",Senior/Pensioner,Ferry,211877.0
+"2024-01",Senior/Pensioner,Light Rail,402535.0
+"2024-01",Senior/Pensioner,Metro,133445.0
+"2024-01",Senior/Pensioner,Train,2191128.0
+"2024-01",Senior/Pensioner,unallocated,1.0
+"2024-01",Sgl Trip Ferry Adult,Ferry,39508.0
+"2024-01",Sgl Trip Ferry Child/Youth,Ferry,26479.0
+"2024-01",Sgl Trip LR Adult,Light Rail,5101.0
+"2024-01",Sgl Trip LR Child/Youth,Light Rail,3566.0
+"2024-01",Sgl Trip Rail Adult,Metro,4261.0
+"2024-01",Sgl Trip Rail Adult,Train,91416.0
+"2024-01",Sgl Trip Rail Child/Youth,Metro,7488.0
+"2024-01",Sgl Trip Rail Child/Youth,Train,71657.0
+"2024-01",UNKNOWN,Light Rail,9.0
+"2024-01",UNKNOWN,Metro,1.0
+"2024-01",UNKNOWN,Train,12.0
+"2024-02",Adult,Ferry,439623.0
+"2024-02",Adult,Light Rail,1335960.0
+"2024-02",Adult,Metro,829981.0
+"2024-02",Adult,Train,11484876
+"2024-02",Adult,unallocated,238.0
+"2024-02",CTP,Ferry,834298.0
+"2024-02",CTP,Light Rail,1563894.0
+"2024-02",CTP,Metro,623196.0
+"2024-02",CTP,Train,10500907
+"2024-02",CTP,unallocated,368.0
+"2024-02",Child/Youth,Ferry,62236.0
+"2024-02",Child/Youth,Light Rail,118438.0
+"2024-02",Child/Youth,Metro,94236.0
+"2024-02",Child/Youth,Train,706430.0
+"2024-02",Concession,Ferry,20322.0
+"2024-02",Concession,Light Rail,288205.0
+"2024-02",Concession,Metro,154618.0
+"2024-02",Concession,Train,1277244.0
+"2024-02",Concession,unallocated,12.0
+"2024-02",Day Pass Child/Youth w/o SAF,Train,18.0
+"2024-02",Day Pass without SAF,Ferry,47.0
+"2024-02",Day Pass without SAF,Light Rail,63.0
+"2024-02",Day Pass without SAF,Metro,13.0
+"2024-02",Day Pass without SAF,Train,1160.0
+"2024-02",Employee,Ferry,4007.0
+"2024-02",Employee,Light Rail,8926.0
+"2024-02",Employee,Metro,9141.0
+"2024-02",Employee,Train,254095.0
+"2024-02",Free Travel,Ferry,1665.0
+"2024-02",Free Travel,Light Rail,3092.0
+"2024-02",Free Travel,Metro,1576.0
+"2024-02",Free Travel,Train,25856.0
+"2024-02",School Student,Ferry,10798.0
+"2024-02",School Student,Light Rail,45849.0
+"2024-02",School Student,Metro,182990.0
+"2024-02",School Student,Train,1188297.0
+"2024-02",Senior/Pensioner,Ferry,181934.0
+"2024-02",Senior/Pensioner,Light Rail,392059.0
+"2024-02",Senior/Pensioner,Metro,137363.0
+"2024-02",Senior/Pensioner,Train,2441037.0
+"2024-02",Senior/Pensioner,unallocated,14.0
+"2024-02",Sgl Trip Ferry Adult,Ferry,30418.0
+"2024-02",Sgl Trip Ferry Child/Youth,Ferry,10049.0
+"2024-02",Sgl Trip LR Adult,Light Rail,4725.0
+"2024-02",Sgl Trip LR Child/Youth,Light Rail,1754.0
+"2024-02",Sgl Trip Rail Adult,Metro,4369.0
+"2024-02",Sgl Trip Rail Adult,Train,112429.0
+"2024-02",Sgl Trip Rail Child/Youth,Metro,4234.0
+"2024-02",Sgl Trip Rail Child/Youth,Train,49152.0
+"2024-02",UNKNOWN,Ferry,1.0
+"2024-02",UNKNOWN,Light Rail,15.0
+"2024-02",UNKNOWN,Metro,10.0
+"2024-02",UNKNOWN,Train,86.0
+"2024-03",Adult,Ferry,470129.0
+"2024-03",Adult,Light Rail,1340120.0
+"2024-03",Adult,Metro,810822.0
+"2024-03",Adult,Train,11758264
+"2024-03",Adult,unallocated,1.0
+"2024-03",CTP,Ferry,891009.0
+"2024-03",CTP,Light Rail,1611321.0
+"2024-03",CTP,Metro,606473.0
+"2024-03",CTP,Train,10444109
+"2024-03",CTP,unallocated,2.0
+"2024-03",Child/Youth,Ferry,69354.0
+"2024-03",Child/Youth,Light Rail,99235.0
+"2024-03",Child/Youth,Metro,73633.0
+"2024-03",Child/Youth,Train,690692.0
+"2024-03",Concession,Ferry,26341.0
+"2024-03",Concession,Light Rail,354611.0
+"2024-03",Concession,Metro,228750.0
+"2024-03",Concession,Train,1766052.0
+"2024-03",Day Pass Child/Youth w/o SAF,Ferry,4.0
+"2024-03",Day Pass Child/Youth w/o SAF,Light Rail,6.0
+"2024-03",Day Pass Child/Youth w/o SAF,Train,124.0
+"2024-03",Day Pass without SAF,Ferry,42.0
+"2024-03",Day Pass without SAF,Light Rail,59.0
+"2024-03",Day Pass without SAF,Metro,5.0
+"2024-03",Day Pass without SAF,Train,933.0
+"2024-03",Employee,Ferry,4336.0
+"2024-03",Employee,Light Rail,9593.0
+"2024-03",Employee,Metro,7752.0
+"2024-03",Employee,Train,181469.0
+"2024-03",Free Travel,Ferry,1878.0
+"2024-03",Free Travel,Light Rail,3421.0
+"2024-03",Free Travel,Metro,1365.0
+"2024-03",Free Travel,Train,23624.0
+"2024-03",School Student,Ferry,10448.0
+"2024-03",School Student,Light Rail,46368.0
+"2024-03",School Student,Metro,163938.0
+"2024-03",School Student,Train,1002825.0
+"2024-03",Senior/Pensioner,Ferry,214787.0
+"2024-03",Senior/Pensioner,Light Rail,453237.0
+"2024-03",Senior/Pensioner,Metro,133696.0
+"2024-03",Senior/Pensioner,Train,2559290.0
+"2024-03",Sgl Trip Ferry Adult,Ferry,24896.0
+"2024-03",Sgl Trip Ferry Child/Youth,Ferry,9172.0
+"2024-03",Sgl Trip LR Adult,Light Rail,2497.0
+"2024-03",Sgl Trip LR Child/Youth,Light Rail,1008.0
+"2024-03",Sgl Trip Rail Adult,Metro,3291.0
+"2024-03",Sgl Trip Rail Adult,Train,78598.0
+"2024-03",Sgl Trip Rail Child/Youth,Metro,2765.0
+"2024-03",Sgl Trip Rail Child/Youth,Train,32569.0
+"2024-03",UNKNOWN,Ferry,11.0
+"2024-03",UNKNOWN,Light Rail,5.0
+"2024-03",UNKNOWN,Metro,1.0
+"2024-03",UNKNOWN,Train,29.0
+"2024-04",Adult,Ferry,411457.0
+"2024-04",Adult,Light Rail,1218202.0
+"2024-04",Adult,Metro,789842.0
+"2024-04",Adult,Train,10638796
+"2024-04",Adult,unallocated,3.0
+"2024-04",CTP,Ferry,751418.0
+"2024-04",CTP,Light Rail,1449475.0
+"2024-04",CTP,Metro,593295.0
+"2024-04",CTP,Train,9388176.0
+"2024-04",CTP,unallocated,2.0
+"2024-04",CTP,unallocated,1.0
+"2024-04",Child/Youth,Ferry,113603.0
+"2024-04",Child/Youth,Light Rail,136878.0
+"2024-04",Child/Youth,Metro,118429.0
+"2024-04",Child/Youth,Train,828772.0
+"2024-04",Child/Youth,unallocated,1.0
+"2024-04",Concession,Ferry,22459.0
+"2024-04",Concession,Light Rail,293402.0
+"2024-04",Concession,Metro,169505.0
+"2024-04",Concession,Train,1377700.0
+"2024-04",Day Pass Child/Youth w/o SAF,Ferry,2.0
+"2024-04",Day Pass Child/Youth w/o SAF,Light Rail,5.0
+"2024-04",Day Pass Child/Youth w/o SAF,Train,22.0
+"2024-04",Day Pass without SAF,Ferry,34.0
+"2024-04",Day Pass without SAF,Light Rail,60.0
+"2024-04",Day Pass without SAF,Metro,8.0
+"2024-04",Day Pass without SAF,Train,891.0
+"2024-04",Employee,Ferry,4467.0
+"2024-04",Employee,Light Rail,9309.0
+"2024-04",Employee,Metro,7928.0
+"2024-04",Employee,Train,177176.0
+"2024-04",Employee,unallocated,1.0
+"2024-04",Free Travel,Ferry,1849.0
+"2024-04",Free Travel,Light Rail,3151.0
+"2024-04",Free Travel,Metro,1383.0
+"2024-04",Free Travel,Train,22891.0
+"2024-04",School Student,Ferry,5361.0
+"2024-04",School Student,Light Rail,21274.0
+"2024-04",School Student,Metro,80255.0
+"2024-04",School Student,Train,459445.0
+"2024-04",Senior/Pensioner,Ferry,194839.0
+"2024-04",Senior/Pensioner,Light Rail,400193.0
+"2024-04",Senior/Pensioner,Metro,136296.0
+"2024-04",Senior/Pensioner,Train,2304212.0
+"2024-04",Sgl Trip Ferry Adult,Ferry,22078.0
+"2024-04",Sgl Trip Ferry Child/Youth,Ferry,14294.0
+"2024-04",Sgl Trip LR Adult,Light Rail,2481.0
+"2024-04",Sgl Trip LR Child/Youth,Light Rail,1669.0
+"2024-04",Sgl Trip Rail Adult,Metro,3458.0
+"2024-04",Sgl Trip Rail Adult,Train,66095.0
+"2024-04",Sgl Trip Rail Adult,unallocated,1.0
+"2024-04",Sgl Trip Rail Child/Youth,Metro,5467.0
+"2024-04",Sgl Trip Rail Child/Youth,Train,43686.0
+"2024-04",Sgl Trip Rail Child/Youth,unallocated,1.0
+"2024-04",UNKNOWN,Ferry,1.0
+"2024-04",UNKNOWN,Light Rail,2.0
+"2024-04",UNKNOWN,Metro,4.0
+"2024-04",UNKNOWN,Train,11.0
+"2024-05",Adult,Ferry,336037.0
+"2024-05",Adult,Light Rail,1257739.0
+"2024-05",Adult,Metro,900636.0
+"2024-05",Adult,Train,11827782
+"2024-05",Adult,unallocated,115.0
+"2024-05",CTP,Ferry,629255.0
+"2024-05",CTP,Light Rail,1479898.0
+"2024-05",CTP,Metro,683413.0
+"2024-05",CTP,Train,10444363
+"2024-05",CTP,unallocated,107.0
+"2024-05",CTP,unallocated,5.0
+"2024-05",Child/Youth,Ferry,41444.0
+"2024-05",Child/Youth,Light Rail,68304.0
+"2024-05",Child/Youth,Metro,71584.0
+"2024-05",Child/Youth,Train,569273.0
+"2024-05",Child/Youth,unallocated,6.0
+"2024-05",Concession,Ferry,20824.0
+"2024-05",Concession,Light Rail,241804.0
+"2024-05",Concession,Metro,209096.0
+"2024-05",Concession,Train,1496935.0
+"2024-05",Concession,unallocated,6.0
+"2024-05",Day Pass Child/Youth w/o SAF,Ferry,102.0
+"2024-05",Day Pass Child/Youth w/o SAF,Light Rail,2.0
+"2024-05",Day Pass Child/Youth w/o SAF,Metro,30.0
+"2024-05",Day Pass Child/Youth w/o SAF,Train,109.0
+"2024-05",Day Pass without SAF,Ferry,33.0
+"2024-05",Day Pass without SAF,Light Rail,52.0
+"2024-05",Day Pass without SAF,Metro,7.0
+"2024-05",Day Pass without SAF,Train,1001.0
+"2024-05",Employee,Ferry,4134.0
+"2024-05",Employee,Light Rail,10532.0
+"2024-05",Employee,Metro,9757.0
+"2024-05",Employee,Train,213322.0
+"2024-05",Employee,unallocated,3.0
+"2024-05",Free Travel,Ferry,1612.0
+"2024-05",Free Travel,Light Rail,3125.0
+"2024-05",Free Travel,Metro,1728.0
+"2024-05",Free Travel,Train,26137.0
+"2024-05",School Student,Ferry,11100.0
+"2024-05",School Student,Light Rail,50457.0
+"2024-05",School Student,Metro,197296.0
+"2024-05",School Student,Train,1132947.0
+"2024-05",Senior/Pensioner,Ferry,173711.0
+"2024-05",Senior/Pensioner,Light Rail,413899.0
+"2024-05",Senior/Pensioner,Metro,149043.0
+"2024-05",Senior/Pensioner,Train,2562626.0
+"2024-05",Senior/Pensioner,unallocated,13.0
+"2024-05",Sgl Trip Ferry Adult,Ferry,15287.0
+"2024-05",Sgl Trip Ferry Child/Youth,Ferry,5858.0
+"2024-05",Sgl Trip LR Adult,Light Rail,2839.0
+"2024-05",Sgl Trip LR Child/Youth,Light Rail,956.0
+"2024-05",Sgl Trip Rail Adult,Metro,3622.0
+"2024-05",Sgl Trip Rail Adult,Train,78277.0
+"2024-05",Sgl Trip Rail Adult,unallocated,3.0
+"2024-05",Sgl Trip Rail Child/Youth,Metro,3859.0
+"2024-05",Sgl Trip Rail Child/Youth,Train,37225.0
+"2024-05",Sgl Trip Rail Child/Youth,unallocated,8.0
+"2024-05",UNKNOWN,Ferry,2.0
+"2024-05",UNKNOWN,Light Rail,1.0
+"2024-05",UNKNOWN,Metro,9.0
+"2024-05",UNKNOWN,Train,36.0
+"2024-06",Adult,Ferry,330366.0
+"2024-06",Adult,Light Rail,1052876.0
+"2024-06",Adult,Metro,770655.0
+"2024-06",Adult,Train,10574002
+"2024-06",Adult,unallocated,764.0
+"2024-06",CTP,Ferry,611151.0
+"2024-06",CTP,Light Rail,1227583.0
+"2024-06",CTP,Metro,572790.0
+"2024-06",CTP,Train,9451589.0
+"2024-06",CTP,unallocated,1119.0
+"2024-06",Child/Youth,Ferry,65674.0
+"2024-06",Child/Youth,Light Rail,84467.0
+"2024-06",Child/Youth,Metro,83303.0
+"2024-06",Child/Youth,Train,664207.0
+"2024-06",Child/Youth,unallocated,59.0
+"2024-06",Concession,Ferry,19924.0
+"2024-06",Concession,Light Rail,278188.0
+"2024-06",Concession,Metro,131769.0
+"2024-06",Concession,Train,1155520.0
+"2024-06",Concession,unallocated,45.0
+"2024-06",Day Pass Child/Youth w/o SAF,Ferry,112.0
+"2024-06",Day Pass Child/Youth w/o SAF,Light Rail,2.0
+"2024-06",Day Pass Child/Youth w/o SAF,Train,212.0
+"2024-06",Day Pass without SAF,Ferry,44.0
+"2024-06",Day Pass without SAF,Light Rail,40.0
+"2024-06",Day Pass without SAF,Metro,18.0
+"2024-06",Day Pass without SAF,Train,973.0
+"2024-06",Employee,Ferry,4067.0
+"2024-06",Employee,Light Rail,8895.0
+"2024-06",Employee,Metro,9027.0
+"2024-06",Employee,Train,196785.0
+"2024-06",Employee,unallocated,5.0
+"2024-06",Free Travel,Ferry,1591.0
+"2024-06",Free Travel,Light Rail,2838.0
+"2024-06",Free Travel,Metro,1629.0
+"2024-06",Free Travel,Train,22924.0
+"2024-06",School Student,Ferry,9108.0
+"2024-06",School Student,Light Rail,33214.0
+"2024-06",School Student,Metro,161338.0
+"2024-06",School Student,Train,898900.0
+"2024-06",Senior/Pensioner,Ferry,161244.0
+"2024-06",Senior/Pensioner,Light Rail,357834.0
+"2024-06",Senior/Pensioner,Metro,140630.0
+"2024-06",Senior/Pensioner,Train,2353296.0
+"2024-06",Senior/Pensioner,unallocated,143.0
+"2024-06",Sgl Trip Ferry Adult,Ferry,17839.0
+"2024-06",Sgl Trip Ferry Child/Youth,Ferry,10608.0
+"2024-06",Sgl Trip LR Adult,Light Rail,2755.0
+"2024-06",Sgl Trip LR Child/Youth,Light Rail,1452.0
+"2024-06",Sgl Trip Rail Adult,Metro,3274.0
+"2024-06",Sgl Trip Rail Adult,Train,73843.0
+"2024-06",Sgl Trip Rail Adult,unallocated,1.0
+"2024-06",Sgl Trip Rail Child/Youth,Metro,4283.0
+"2024-06",Sgl Trip Rail Child/Youth,Train,45412.0
+"2024-06",UNKNOWN,Light Rail,3.0
+"2024-06",UNKNOWN,Metro,4.0
+"2024-06",UNKNOWN,Train,38.0
+"2024-07",Adult,Ferry,357638.0
+"2024-07",Adult,Light Rail,1100200.0
+"2024-07",Adult,Metro,898838.0
+"2024-07",Adult,Train,11385442
+"2024-07",Adult,unallocated,11.0
+"2024-07",CTP,Ferry,626330.0
+"2024-07",CTP,Light Rail,1284484.0
+"2024-07",CTP,Metro,662592.0
+"2024-07",CTP,Train,9888196.0
+"2024-07",CTP,unallocated,48.0
+"2024-07",CTP,unallocated,33.0
+"2024-07",Child/Youth,Ferry,111562.0
+"2024-07",Child/Youth,Light Rail,140926.0
+"2024-07",Child/Youth,Metro,141515.0
+"2024-07",Child/Youth,Train,902308.0
+"2024-07",Child/Youth,unallocated,4.0
+"2024-07",Concession,Ferry,18954.0
+"2024-07",Concession,Light Rail,275262.0
+"2024-07",Concession,Metro,152228.0
+"2024-07",Concession,Train,1197585.0
+"2024-07",Concession,unallocated,1.0
+"2024-07",Day Pass Child/Youth w/o SAF,Ferry,78.0
+"2024-07",Day Pass Child/Youth w/o SAF,Light Rail,7.0
+"2024-07",Day Pass Child/Youth w/o SAF,Metro,0.0
+"2024-07",Day Pass Child/Youth w/o SAF,Train,186.0
+"2024-07",Day Pass without SAF,Ferry,25.0
+"2024-07",Day Pass without SAF,Light Rail,55.0
+"2024-07",Day Pass without SAF,Metro,24.0
+"2024-07",Day Pass without SAF,Train,984.0
+"2024-07",Employee,Ferry,4233.0
+"2024-07",Employee,Light Rail,9145.0
+"2024-07",Employee,Metro,9940.0
+"2024-07",Employee,Train,208330.0
+"2024-07",Employee,unallocated,1.0
+"2024-07",Free Travel,Ferry,1657.0
+"2024-07",Free Travel,Light Rail,3044.0
+"2024-07",Free Travel,Metro,1852.0
+"2024-07",Free Travel,Train,25043.0
+"2024-07",School Student,Ferry,4509.0
+"2024-07",School Student,Light Rail,17881.0
+"2024-07",School Student,Metro,92863.0
+"2024-07",School Student,Train,519948.0
+"2024-07",Senior/Pensioner,Ferry,167782.0
+"2024-07",Senior/Pensioner,Light Rail,361049.0
+"2024-07",Senior/Pensioner,Metro,161337.0
+"2024-07",Senior/Pensioner,Train,2510732.0
+"2024-07",Sgl Trip Ferry Adult,Ferry,23301.0
+"2024-07",Sgl Trip Ferry Child/Youth,Ferry,17148.0
+"2024-07",Sgl Trip LR Adult,Light Rail,3694.0
+"2024-07",Sgl Trip LR Child/Youth,Light Rail,2635.0
+"2024-07",Sgl Trip Rail Adult,Metro,4292.0
+"2024-07",Sgl Trip Rail Adult,Train,79468.0
+"2024-07",Sgl Trip Rail Child/Youth,Metro,7534.0
+"2024-07",Sgl Trip Rail Child/Youth,Train,61688.0
+"2024-07",UNKNOWN,Train,21.0
+"2024-08",Adult,Ferry,349477.0
+"2024-08",Adult,Light Rail,1260117.0
+"2024-08",Adult,Metro,1512432.0
+"2024-08",Adult,Train,11481722
+"2024-08",Adult,unallocated,154.0
+"2024-08",CTP,Ferry,634870.0
+"2024-08",CTP,Light Rail,1480674.0
+"2024-08",CTP,Metro,1368348.0
+"2024-08",CTP,Train,10086640
+"2024-08",CTP,unallocated,199.0
+"2024-08",Child/Youth,Ferry,62402.0
+"2024-08",Child/Youth,Light Rail,101342.0
+"2024-08",Child/Youth,Metro,148759.0
+"2024-08",Child/Youth,Train,624061.0
+"2024-08",Child/Youth,unallocated,4.0
+"2024-08",Concession,Ferry,22806.0
+"2024-08",Concession,Light Rail,235255.0
+"2024-08",Concession,Metro,337093.0
+"2024-08",Concession,Train,1610126.0
+"2024-08",Concession,unallocated,3.0
+"2024-08",Day Pass Child/Youth w/o SAF,Ferry,58.0
+"2024-08",Day Pass Child/Youth w/o SAF,Light Rail,17.0
+"2024-08",Day Pass Child/Youth w/o SAF,Metro,2.0
+"2024-08",Day Pass Child/Youth w/o SAF,Train,292.0
+"2024-08",Day Pass without SAF,Ferry,47.0
+"2024-08",Day Pass without SAF,Light Rail,72.0
+"2024-08",Day Pass without SAF,Metro,30.0
+"2024-08",Day Pass without SAF,Train,950.0
+"2024-08",Employee,Ferry,4138.0
+"2024-08",Employee,Light Rail,10620.0
+"2024-08",Employee,Metro,20885.0
+"2024-08",Employee,Train,196368.0
+"2024-08",Employee,unallocated,2.0
+"2024-08",Free Travel,Ferry,1685.0
+"2024-08",Free Travel,Light Rail,3400.0
+"2024-08",Free Travel,Metro,4028.0
+"2024-08",Free Travel,Train,24387.0
+"2024-08",School Student,Ferry,9871.0
+"2024-08",School Student,Light Rail,38693.0
+"2024-08",School Student,Metro,227581.0
+"2024-08",School Student,Train,998260.0
+"2024-08",Senior/Pensioner,Ferry,169077.0
+"2024-08",Senior/Pensioner,Light Rail,417293.0
+"2024-08",Senior/Pensioner,Metro,353789.0
+"2024-08",Senior/Pensioner,Train,2579462.0
+"2024-08",Senior/Pensioner,unallocated,13.0
+"2024-08",Sgl Trip Ferry Adult,Ferry,16109.0
+"2024-08",Sgl Trip Ferry Child/Youth,Ferry,7979.0
+"2024-08",Sgl Trip LR Adult,Light Rail,2731.0
+"2024-08",Sgl Trip LR Child/Youth,Light Rail,1485.0
+"2024-08",Sgl Trip Rail Adult,Metro,5849.0
+"2024-08",Sgl Trip Rail Adult,Train,63787.0
+"2024-08",Sgl Trip Rail Child/Youth,Metro,7242.0
+"2024-08",Sgl Trip Rail Child/Youth,Train,33100.0
+"2024-08",UNKNOWN,Light Rail,2.0
+"2024-08",UNKNOWN,Train,31.0
